@@ -17,6 +17,9 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
   "todo-tree.highlights.defaultHighlight": {
     "background": "#ffff00c4",
     "fontWeight": "900",
