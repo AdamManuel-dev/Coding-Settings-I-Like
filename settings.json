@@ -1,0 +1,55 @@
+{
+  "editor.tabSize": 2,
+  "security.workspace.trust.untrustedFiles": "open",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "High Contrast Theme",
+  "editor.fontSize": 12.5,
+  "window.zoomLevel": 0.75,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "todo-tree.highlights.defaultHighlight": {
+    "background": "#ffff00c4",
+    "fontWeight": "900",
+    "type": "text",
+    "textDecoration": "underline"
+  },
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "NOTE",
+    " BUG",
+    " HACK",
+    " FIXME",
+    " TODO",
+    " NOTE"
+  ],
+  "codemetrics.basics.ComplexityLevelExtremeDescription": "Extreme Complexity",
+  "codemetrics.basics.ComplexityColorExtreme": "#ff00009e",
+  "codemetrics.basics.ComplexityLevelExtreme": 32,
+  "codemetrics.basics.ComplexityLevelHighDescription": "High Complexity",
+  "codemetrics.basics.ComplexityColorHigh": "#f440349e",
+  "codemetrics.basics.ComplexityLevelHigh": 16,
+  "codemetrics.basics.ComplexityLevelNormalDescription": "Normal Complexity",
+  "codemetrics.basics.ComplexityColorNormal": "#ffc2089e",
+  "codemetrics.basics.ComplexityLevelNormal": 8,
+  "codemetrics.basics.ComplexityLevelLowDescription": "Low Complexity",
+  "codemetrics.basics.ComplexityColorLow": "#4bb14f9e",
+  "codemetrics.basics.ComplexityLevelLow": 0,
+  "codemetrics.basics.DecorationModeEnabled": false,
+  "codemetrics.basics.EnabledForTSX": false,
+  "codemetrics.basics.EnabledForJSX": false,
+  "codemetrics.basics.CodeLensEnabled": true,
+  "codemetrics.basics.CodeLensHiddenUnder": 4
+}
